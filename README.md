@@ -9,3 +9,4 @@ simple implement of user admin, for reference
 
 ### 前端
 大概就看template的东西就行了，有一些模板html
+html名字保持一致
