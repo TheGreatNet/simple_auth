@@ -7,6 +7,4 @@ simple implement of user admin, for reference
 
 正在尝试改模型。。
 
-### 前端
-大概就看template的东西就行了，有一些模板html
-html名字保持一致
+## 参阅factory_monitor， 最新版
